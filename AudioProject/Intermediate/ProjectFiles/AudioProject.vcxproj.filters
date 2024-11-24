@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AudioProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AudioProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AudioProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AudioProject">
+      <UniqueIdentifier>{E46FF920-A3FC-39DF-8733-364081EC4125}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AudioProject\AudioProject.Build.cs">
+      <Filter>Source\AudioProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProject.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProject.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectCharacter.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectCharacter.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectGameMode.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectGameMode.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectPlayerController.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectPlayerController.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectProjectile.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectProjectile.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\TP_PickUpComponent.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\TP_PickUpComponent.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\TP_WeaponComponent.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\TP_WeaponComponent.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

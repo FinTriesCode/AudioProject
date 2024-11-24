@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\unrealeditor\\inc\\audioproject\\uht\\audioprojectgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\audioprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\audioproject\\definitions.audioproject.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\source\\audioproject\\audioprojectgamemode.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\unrealeditor\\inc\\audioproject\\uht\\audioprojectgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
