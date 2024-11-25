@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudioreverbsettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\audioprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steamaudio\\definitions.steamaudio.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudioreverbsettings.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudiomodule.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon_version.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudioreverbsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

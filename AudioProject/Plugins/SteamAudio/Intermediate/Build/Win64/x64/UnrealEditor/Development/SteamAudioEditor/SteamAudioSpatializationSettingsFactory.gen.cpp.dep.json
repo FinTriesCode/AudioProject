@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudioeditor\\uht\\steamaudiospatializationsettingsfactory.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\audioprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steamaudioeditor\\definitions.steamaudioeditor.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudioeditor\\private\\steamaudiospatializationsettingsfactory.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudioeditor\\public\\steamaudioeditormodule.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\merge\\public\\merge.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudioeditor\\uht\\steamaudiospatializationsettingsfactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

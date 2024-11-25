@@ -3592,6 +3592,26 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor-SteamAudio.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor-SteamAudio.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor-SteamAudioEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor-SteamAudioEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -26622,6 +26642,22 @@
 		{
 			"Path": "$(ProjectDir)/AudioProject.uproject",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Source/SteamAudioSDK/lib/windows-x64/GPUUtilities.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Source/SteamAudioSDK/lib/windows-x64/TrueAudioNext.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/Source/SteamAudioSDK/lib/windows-x64/phonon.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/SteamAudio/SteamAudio.uplugin",
+			"Type": "UFS"
 		}
 	],
 	"BuildPlugins": [
@@ -26770,6 +26806,7 @@
 		"SkeletalReduction",
 		"SoundFields",
 		"SpeedTreeImporter",
+		"SteamAudio",
 		"StructUtils",
 		"StudioTelemetry",
 		"SubversionSourceControl",

@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudioserializedobject.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\audioprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steamaudio\\definitions.steamaudio.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudioserializedobject.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudiomodule.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon_version.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudioserializedobject.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\savepackage.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\serialization\\packagewriter.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\io\\iodispatcher.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\io\\iobuffer.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\io\\iostatus.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\ienginecrypto.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\core\\public\\serialization\\compactbinary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

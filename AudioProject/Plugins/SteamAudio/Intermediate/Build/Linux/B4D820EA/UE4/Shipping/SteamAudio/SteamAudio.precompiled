@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.SteamAudio.cpp.o",
+		"Module.SteamAudio.gen.cpp.o"
+	]
+}

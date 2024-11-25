@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.SteamAudio.cppa7.o",
+		"Module.SteamAudio.cppa8.o",
+		"Module.SteamAudio.gen.cppa7.o",
+		"Module.SteamAudio.gen.cppa8.o"
+	]
+}

@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudiomodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\intermediate\\build\\win64\\x64\\audioprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steamaudio\\definitions.steamaudio.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudiomodule.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudiosdk\\include\\phonon_version.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudioaudioengineinterface.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudiomanager.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudiocommon.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudiosettings.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudiosettings.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudioocclusion.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudioocclusionsettings.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudioocclusionsettings.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudioreverb.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\soundeffectsubmix.h",
+            "b:\\steamlibrary\\steamapps\\common\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundeffectsubmix.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudioreverb.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudiospatialization.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\public\\steamaudiospatializationsettings.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\intermediate\\build\\win64\\unrealeditor\\inc\\steamaudio\\uht\\steamaudiospatializationsettings.generated.h",
+            "b:\\unreal engine projects\\uni work\\audioproject\\audioproject\\audioproject\\plugins\\steamaudio\\source\\steamaudio\\private\\steamaudiounrealaudioengineinterface.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
