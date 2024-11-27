@@ -1,5 +1,31 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.SteamAudioEditor.cpp.obj": [
+			"SOFAFileFactory.gen.cpp.obj",
+			"SteamAudioEditor.init.gen.cpp.obj",
+			"SteamAudioMaterialFactory.gen.cpp.obj",
+			"SteamAudioOcclusionSettingsFactory.gen.cpp.obj",
+			"SteamAudioReverbSettingsFactory.gen.cpp.obj",
+			"SteamAudioSpatializationSettingsFactory.gen.cpp.obj",
+			"SOFAFileFactory.cpp.obj",
+			"SteamAudioBakedListenerComponentVisualizer.cpp.obj",
+			"SteamAudioBakedListenerDetails.cpp.obj",
+			"SteamAudioBakedSourceComponentVisualizer.cpp.obj",
+			"SteamAudioBakedSourceDetails.cpp.obj",
+			"SteamAudioBakeWindow.cpp.obj",
+			"SteamAudioBaking.cpp.obj",
+			"SteamAudioDynamicObjectDetails.cpp.obj",
+			"SteamAudioEditorModule.cpp.obj",
+			"SteamAudioListenerDetails.cpp.obj",
+			"SteamAudioMaterialFactory.cpp.obj",
+			"SteamAudioOcclusionSettingsFactory.cpp.obj",
+			"SteamAudioProbeComponentVisualizer.cpp.obj",
+			"SteamAudioProbeVolumeDetails.cpp.obj",
+			"SteamAudioReverbSettingsFactory.cpp.obj",
+			"SteamAudioSourceComponentVisualizer.cpp.obj",
+			"SteamAudioSpatializationSettingsFactory.cpp.obj",
+			"TickableNotification.cpp.obj"
+		]
 	}
 }
