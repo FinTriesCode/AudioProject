@@ -1878,30 +1878,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplayVolume/Binaries/Win64/UnrealEditor-AudioGameplayVolume.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplayVolume/Binaries/Win64/UnrealEditor-AudioGameplayVolumeEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplayVolume/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplay/Binaries/Win64/UnrealEditor-AudioGameplay.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplay/Binaries/Win64/UnrealEditor-AudioGameplayTests.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplay/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Bridge/Binaries/Win64/UnrealEditor-Bridge.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -26052,14 +26028,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplayVolume/AudioGameplayVolume.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/AudioGameplay/AudioGameplay.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Bridge/Bridge.uplugin",
 			"Type": "UFS"
 		},
@@ -26712,8 +26680,6 @@
 		"AssetManagerEditor",
 		"AssetTags",
 		"AudioCapture",
-		"AudioGameplay",
-		"AudioGameplayVolume",
 		"AudioSynesthesia",
 		"AudioWidgets",
 		"AutomationUtils",
