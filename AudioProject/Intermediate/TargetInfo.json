@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AudioProject",
+			"Path": "..\\Source\\AudioProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AudioProjectEditor",
+			"Path": "..\\Source\\AudioProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

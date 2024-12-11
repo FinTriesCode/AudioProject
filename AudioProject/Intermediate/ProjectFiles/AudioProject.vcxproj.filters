@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AudioProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AudioProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AudioProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\CMP407 Audio Programming Report.docx" />
+    <None Include="..\..\~$P407 Audio Programming Report.docx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio">
+      <UniqueIdentifier>{CB4077AF-77BA-313A-8C0A-D5BAD4695686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio\Source">
+      <UniqueIdentifier>{D367B7D0-46BF-36C2-B98C-3FFA4D8FBD8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioEditor">
+      <UniqueIdentifier>{6037D438-63A5-3E23-87BE-D52300B3BDA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\SteamAudioEditor.Build.cs">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioEditor\Private">
+      <UniqueIdentifier>{3A44677A-1600-3281-892C-5AD85B03C193}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SOFAFileFactory.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SOFAFileFactory.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedListenerComponentVisualizer.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedListenerComponentVisualizer.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedListenerDetails.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedListenerDetails.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedSourceComponentVisualizer.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedSourceComponentVisualizer.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedSourceDetails.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakedSourceDetails.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakeWindow.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBakeWindow.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBaking.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioBaking.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioDynamicObjectDetails.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioDynamicObjectDetails.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioEditorModule.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioListenerDetails.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioListenerDetails.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioMaterialFactory.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioMaterialFactory.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioOcclusionSettingsFactory.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioOcclusionSettingsFactory.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioProbeComponentVisualizer.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioProbeComponentVisualizer.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioProbeVolumeDetails.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioProbeVolumeDetails.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioReverbSettingsFactory.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioReverbSettingsFactory.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioSourceComponentVisualizer.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioSourceComponentVisualizer.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioSpatializationSettingsFactory.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\SteamAudioSpatializationSettingsFactory.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\TickableNotification.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Private\TickableNotification.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioEditor\Public">
+      <UniqueIdentifier>{B3687F0B-DD5D-376B-ADE7-FA8EB030BF37}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioEditor\Public\SteamAudioEditorModule.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioEditor\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\SteamAudio\SteamAudio.uplugin">
+      <Filter>Plugins\SteamAudio</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Resources">
+      <UniqueIdentifier>{4C877CFE-1989-3898-BDE3-3B5DE45E482C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Resources\Icon128.png">
+      <Filter>Plugins\SteamAudio\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK">
+      <UniqueIdentifier>{987C104E-1274-3499-8A67-BAA2842BA70C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\SteamAudioSDK.Build.cs">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\SteamAudioSDK_APL.xml">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\include">
+      <UniqueIdentifier>{D812EE7E-8C4C-31FA-A934-A06A3AFEEC66}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\include\phonon.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\include\phonon_interfaces.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\include\phonon_version.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\include</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib">
+      <UniqueIdentifier>{DC12B1B3-EAD9-3286-9EE2-FFB9CC817B13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\android">
+      <UniqueIdentifier>{09A5A0EA-E6CD-3806-A98D-E7B3BBB8942B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\arm64-v8a">
+      <UniqueIdentifier>{9C4D86FF-6D07-38A2-94AF-D27363984198}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\arm64-v8a\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\arm64-v8a</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\armeabi-v7a">
+      <UniqueIdentifier>{8B1CA488-0353-33A8-910B-31938A08264A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\armeabi-v7a\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\armeabi-v7a</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86">
+      <UniqueIdentifier>{218FC0C8-1C01-37E2-BAE3-A02D8F27AD0D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86_64">
+      <UniqueIdentifier>{B1AE800E-E68B-36D1-903E-4742E372AAB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86_64\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\android\x86_64</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios">
+      <UniqueIdentifier>{5EAE29B9-6861-39A7-8728-96B137074187}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios\libmysofa.a">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios\libpffft.a">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios\libphonon.a">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\ios</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x64">
+      <UniqueIdentifier>{29A21C06-E3FD-3B68-97B2-5DDA7BD67262}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x64\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x64</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x86">
+      <UniqueIdentifier>{3B51CAF1-CB26-35C1-A4AF-95455B04A6DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x86\libphonon.so">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\linux-x86</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx">
+      <UniqueIdentifier>{E4174DF7-3FF4-3D9C-BCF0-39D781AD8038}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\libphonon.dylib">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle">
+      <UniqueIdentifier>{03BFB20D-6A26-3B7F-ADDF-9597230CD876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents">
+      <UniqueIdentifier>{B07A13AF-9AE0-34AF-9AF1-6E5C04105A7A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents\Info.plist">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents\MacOS">
+      <UniqueIdentifier>{69131724-488C-3056-B1A4-0D7B9B227430}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents\MacOS\phonon">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\osx\phonon.bundle\Contents\MacOS</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64">
+      <UniqueIdentifier>{53907105-51B7-3D6B-902F-2F7CC46F7E63}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64\GPUUtilities.dll">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64\phonon.dll">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64\phonon.lib">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64\TrueAudioNext.dll">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x64</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x86">
+      <UniqueIdentifier>{5B0205C1-50C4-3122-98F7-AB30A48E3A75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x86\phonon.dll">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x86</Filter>
+    </None>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x86\phonon.lib">
+      <Filter>Plugins\SteamAudio\Source\SteamAudioSDK\lib\windows-x86</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudio">
+      <UniqueIdentifier>{24CFC19B-6D45-3886-A4B3-A90F18A9F7C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\SteamAudio\Source\SteamAudio\SteamAudio.Build.cs">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio</Filter>
+    </None>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudio\Private">
+      <UniqueIdentifier>{8013DE45-E935-3538-B9F9-F43C699175DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SOFAFile.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioBakedListenerComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioBakedSourceComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioCommon.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioCommon.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioDynamicObjectComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioGeometryComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioListenerComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioManager.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioManager.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioMaterial.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioModule.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioOcclusion.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioOcclusion.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioOcclusionSettings.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioProbeComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioProbeVolume.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioReverb.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioReverb.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioReverbSettings.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioScene.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioScene.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSerializedObject.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSettings.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSourceComponent.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSpatialization.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSpatialization.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioSpatializationSettings.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioStaticMeshActor.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioUnrealAudioEngineInterface.cpp">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Private\SteamAudioUnrealAudioEngineInterface.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\SteamAudio\Source\SteamAudio\Public">
+      <UniqueIdentifier>{CDEFCF37-C60B-3FC6-B3E6-2FB716810CF6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SOFAFile.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioAudioEngineInterface.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioBakedListenerComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioBakedSourceComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioDynamicObjectComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioGeometryComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioListenerComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioMaterial.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioModule.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioOcclusionSettings.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioProbeComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioProbeVolume.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioReverbSettings.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioSerializedObject.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioSettings.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioSourceComponent.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioSpatializationSettings.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\SteamAudio\Source\SteamAudio\Public\SteamAudioStaticMeshActor.h">
+      <Filter>Plugins\SteamAudio\Source\SteamAudio\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\AudioProject">
+      <UniqueIdentifier>{E46FF920-A3FC-39DF-8733-364081EC4125}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AudioProject\AudioProject.Build.cs">
+      <Filter>Source\AudioProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProject.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProject.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectCharacter.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectCharacter.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectGameMode.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectGameMode.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectPlayerController.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectPlayerController.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\AudioProjectProjectile.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\AudioProjectProjectile.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\TP_PickUpComponent.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\TP_PickUpComponent.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AudioProject\TP_WeaponComponent.cpp">
+      <Filter>Source\AudioProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AudioProject\TP_WeaponComponent.h">
+      <Filter>Source\AudioProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

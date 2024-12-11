@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Source\\AudioProject\\AudioProject.Build.cs",
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Plugins\\SteamAudio\\Source\\SteamAudioEditor\\SteamAudioEditor.Build.cs",
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Plugins\\SteamAudio\\Source\\SteamAudioSDK\\SteamAudioSDK.Build.cs",
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Plugins\\SteamAudio\\Source\\SteamAudio\\SteamAudio.Build.cs",
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Source\\AudioProject.Target.cs",
+		"B:\\Unreal Engine Projects\\Uni Work\\AudioProject\\AudioProject\\AudioProject\\Source\\AudioProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
